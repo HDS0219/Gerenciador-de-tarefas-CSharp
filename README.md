@@ -6,6 +6,8 @@ Gerenciador de tarefas feito em `C#` para simular e entender de forma simples co
 
 - O código foi separado em 3 arquivos para o funcionamento e organização do programa deixando legível ao usuário mesmo sem os comentários no código.
 - O código possui o `Program.cs` para iniciar o programa, possuindo um menu na tela para que o usuário possa `Adicionar`, `Remover`, `Listar` e `Sair` do programa, utilizando uma lógica de programação simples com `switch-case`
+- `Tarefas.cs` guarda informações do gerenciador e entrega ao usuário caso seja pedido
+- `GerenciadorDeTarefas.cs` guarda as informações na lista e se comunica com `Tarefas.cs` para acessar o "Titulo" e a "Descrição" para adicionar, remover ou listar
 
 
 ### Usar o projeto para testes
