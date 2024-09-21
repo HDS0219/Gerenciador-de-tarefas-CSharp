@@ -21,7 +21,8 @@ git clone git@github.com:HDS0219/Gerenciador-de-tarefas-list.git
 git clone https://github.com/HDS0219/Gerenciador-de-tarefas-list.git
 ```
 
-<!-- futuras adições -->
+<!-- boa parte que está aqui é para entender e aprender como fazer um README organizado. -->
 ## Futuras adições!
 - [ ] Arquivos de texto, para guardar as tarefas dentro dos arquivos de texto de forma organizada
 - [ ] comentários no código
+- [ ] Tempo de cada tarefa sendo colocado opcionalmente
